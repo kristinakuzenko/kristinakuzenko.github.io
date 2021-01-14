@@ -1,12 +1,22 @@
 [
     {
         "name":"Ukraine",
-        "code":"UA",
         "continent":"Europe"
     },
     {
         "name":"Japan",
-        "code":"JP",
         "continent":"Asia"
+    },
+     {
+        "name":"Egypt",
+        "continent":"Africa"
+    },
+     {
+        "name":"United States",
+        "continent":"America"
+    },
+      {
+        "name":"Australia",
+        "continent":"Australia"
     }
 ]
