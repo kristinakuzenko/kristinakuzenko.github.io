@@ -2,11 +2,11 @@
     {
         "name":"Ukraine",
         "code":"UA",
-        "id":1
+        "id":"1"
     },
     {
         "name":"Japan",
         "code":"JP",
-        "id":2
+        "id":"2"
     }
 ]
