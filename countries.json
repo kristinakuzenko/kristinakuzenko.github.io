@@ -13,10 +13,14 @@
     },
      {
         "name":"United States",
-        "continent":"America"
+        "continent":"North America"
     },
       {
         "name":"Australia",
         "continent":"Australia"
-    }
+    },
+       {
+        "name":"Brazil",
+        "continent":"South America"
+    } 
 ]
