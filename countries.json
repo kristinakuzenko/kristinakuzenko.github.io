@@ -2,11 +2,11 @@
     {
         "name":"Ukraine",
         "code":"UA",
-        "id":"1"
+        "continent":"Europe"
     },
     {
         "name":"Japan",
         "code":"JP",
-        "id":"2"
+        "continent":"Asia"
     }
 ]
