@@ -21,6 +21,11 @@
         "name":"Australia",
         "continent":"Australia"
     },
+    {
+        "name":"Spain",
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg",
+        "continent":"Europe"
+    },
        {
         "name":"Brazil",
         "continent":"South America"
