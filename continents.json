@@ -1,12 +1,26 @@
 [
     {
-        "name":"Ukraine",
-        "code":"UA",
-        "id":1
+        "name":"Africa",
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
     },
     {
-        "name":"Japan",
-        "code":"JP",
-        "id":2
+        "name":"Asia",
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
+    },
+    {
+        "name":"Australia",
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
+    },
+    {
+        "name":"Europe",
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
+    },
+    {
+        "name":"North America",
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
+    },
+    {
+        "name":"South America",
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
     }
 ]
