@@ -1,7 +1,8 @@
 [
     {
         "name":"Africa",
-        "image":"https://kristinakuzenko.github.io/images/africacontour.png"
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg",
+        "contour":"https://kristinakuzenko.github.io/images/africacontour.png"
     },
     {
         "name":"Asia",
