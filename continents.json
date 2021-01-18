@@ -6,22 +6,28 @@
     },
     {
         "name":"Asia",
-        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg",
+        "contour":"https://kristinakuzenko.github.io/images/asia.jpg"
     },
     {
         "name":"Australia",
-        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg",
+        "contour":"https://kristinakuzenko.github.io/images/australia.png"
     },
     {
         "name":"Europe",
-        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg",
+        "contour":"https://kristinakuzenko.github.io/images/europe.jpg"
+
     },
     {
         "name":"North America",
-        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg",
+        "contour":"https://kristinakuzenko.github.io/images/northamerica.jpg"
     },
     {
         "name":"South America",
-        "image":"https://kristinakuzenko.github.io/images/africa.jpg"
+        "image":"https://kristinakuzenko.github.io/images/africa.jpg",
+        "contour":"https://kristinakuzenko.github.io/images/southamerica.jpg"
     }
 ]
