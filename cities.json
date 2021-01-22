@@ -1,0 +1,37 @@
+[
+    {
+        "city":"Kyiv",
+        "country":"Ukraine",
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+    },
+    {
+        "city":"Barcelona",
+        "country":"Spain",
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+    },
+    {
+        "city":"Madrid",
+        "country":"Spain",
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+    },
+    {
+        "city":"Tokyo",
+        "country":"Japan",
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+    },
+    {
+        "city":"Sydney",
+        "country":"Australia",
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+    },
+    {
+        "city":"New York",
+        "country":"United States",
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+    },
+    {
+        "city":"Rio de Janeiro",
+        "country":"Brazil",
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+    }
+]
