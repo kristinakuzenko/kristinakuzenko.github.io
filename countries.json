@@ -2,11 +2,11 @@
     {
         "name":"Ukraine",
         "continent":"Europe",
-        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+        "icon":"https://kristinakuzenko.github.io/images/ukraine.png"
     },
     {
         "name":"Japan",
-        "image":"https://kristinakuzenko.github.io/images/africa.jpg",
+        "icon":"https://kristinakuzenko.github.io/images/africa.jpg",
         "continent":"Asia"
     },
      {
@@ -23,8 +23,9 @@
     },
     {
         "name":"Spain",
-        "image":"https://kristinakuzenko.github.io/images/africa.jpg",
-        "continent":"Europe"
+        "icon":"https://kristinakuzenko.github.io/images/africa.jpg",
+        "continent":"Europe",
+        "images":["https://kristinakuzenko.github.io/images/spain1.jpg","https://kristinakuzenko.github.io/images/spain2.jpg","https://kristinakuzenko.github.io/images/spain3.jpg"]
     },
        {
         "name":"Brazil",
