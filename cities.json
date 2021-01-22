@@ -2,36 +2,43 @@
     {
         "city":"Kyiv",
         "country":"Ukraine",
-        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png",
+        "description": "balblabla"
     },
     {
         "city":"Barcelona",
         "country":"Spain",
-        "image":"https://kristinakuzenko.github.io/images/barcelona.jpg"
+        "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
+        "description": "balblabla"
     },
     {
         "city":"Madrid",
         "country":"Spain",
-        "image":"https://kristinakuzenko.github.io/images/madrid.jpg"
+        "image":"https://kristinakuzenko.github.io/images/madrid.jpg",
+        "description": "balblabla"
     },
     {
         "city":"Tokyo",
         "country":"Japan",
-        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png",
+        "description": "balblabla"
     },
     {
         "city":"Sydney",
         "country":"Australia",
-        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png",
+        "description": "balblabla"
     },
     {
         "city":"New York",
         "country":"United States",
-        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png",
+        "description": "balblabla"
     },
     {
         "city":"Rio de Janeiro",
         "country":"Brazil",
-        "image":"https://kristinakuzenko.github.io/images/ukraine.png"
+        "image":"https://kristinakuzenko.github.io/images/ukraine.png",
+        "description": "balblabla"
     }
 ]
