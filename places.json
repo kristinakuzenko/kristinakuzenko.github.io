@@ -1,0 +1,12 @@
+[
+    {
+        "city":"Barcelona",
+        "name":"La Sagrada Familia",
+        "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
+        "type":[1,2],
+        "description": "Church",
+        "location": "Location",
+        "price": "10$",
+        "tips": "Tips"
+    }
+]
