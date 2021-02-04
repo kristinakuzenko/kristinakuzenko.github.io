@@ -1,12 +1,27 @@
 [
+    /*1-sightseeing
+    2 - food
+    */
     {
         "city":"Barcelona",
         "name":"La Sagrada Familia",
         "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
-        "type":[1,2],
+        "type":[1],
         "description": "Church",
         "location": "Location",
         "price": "10$",
-        "tips": "Tips"
+        "tips": "Tips",
+        "transport":"transport"
+    },
+    {
+        "city":"Barcelona",
+        "name":"Mercado de La Boqueria",
+        "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
+        "type":[2],
+        "description": "Market",
+        "location": "Location",
+        "price": "10$",
+        "tips": "Tips",
+        "transport":"transport"
     }
 ]
