@@ -20,5 +20,16 @@
         "price": "10$",
         "tips": "Tips",
         "transport":"transport"
+    },
+    {
+        "city":"Barcelona",
+        "name":"Diagonal Mar",
+        "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
+        "type":[3],
+        "description": "Mall",
+        "location": "Location",
+        "price": "10$",
+        "tips": "Tips",
+        "transport":"transport"
     }
 ]
