@@ -31,5 +31,13 @@
         "price": "10$",
         "tips": "Tips",
         "transport":"transport"
+    },
+    {
+        "city":"Barcelona",
+        "name":"Metro",
+        "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
+        "type":[4],
+        "price":"One way ticket: 10$"
     }
+    
 ]
