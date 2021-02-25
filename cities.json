@@ -31,13 +31,13 @@
         "city":"Sydney",
         "icon":"https://kristinakuzenko.github.io/images/sydney.png",
         "country":"Australia",
-        "icon":"https://kristinakuzenko.github.io/images/ny.png",
         "image":"https://kristinakuzenko.github.io/images/ukraine.png",
         "description": "If Paris is a city of lights, Sydney is the city of fireworks."
     },
     {
         "city":"New York",
         "country":"United States",
+        "icon":"https://kristinakuzenko.github.io/images/ny.png",
         "image":"https://kristinakuzenko.github.io/images/ukraine.png",
         "description": "The true New Yorker secretly believes that people living anywhere else have to be, in some sense, kidding."
     },
