@@ -8,7 +8,9 @@
         "location": "Location",
         "price": "10$",
         "tips": "Tips",
-        "transport":"transport"
+        "transport":"transport",
+        "filter":[1],
+        "popularity":"1"
     },
     {
         "city":"Barcelona",
@@ -19,7 +21,9 @@
         "location": "Location",
         "price": "10$",
         "tips": "Tips",
-        "transport":"transport"
+        "transport":"transport",
+        "filter":[1],
+        "popularity":"1"
     },
     {
         "city":"Barcelona",
@@ -30,7 +34,9 @@
         "location": "Location",
         "price": "10$",
         "tips": "Tips",
-        "transport":"transport"
+        "transport":"transport",
+        "filter":[1],
+        "popularity":"1"
     },
     {
         "city":"Barcelona",
@@ -38,6 +44,20 @@
         "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
         "type":[4],
         "price":"One way ticket: 10$"
+    },
+    {
+        "city":"Barcelona",
+        "name":"Museu Picasso",
+        "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
+        "type":[1],
+        "description": "Church",
+        "location": "Location",
+        "price": "10$",
+        "tips": "Queues can be punishingly long; <br> visit at lunch or shortly before the last entry, or buy your tickets in advance online.",
+        "transport":"transport",
+        "filter":[1],
+        "popularity":"1"
     }
+    
     
 ]
