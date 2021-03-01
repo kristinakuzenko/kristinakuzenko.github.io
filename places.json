@@ -9,7 +9,7 @@
         "price": "10$",
         "tips": "Tips",
         "transport":"transport",
-        "filter":[1],
+        "filter":[2],
         "popularity":"1"
     },
     {
@@ -53,11 +53,40 @@
         "description": "Church",
         "location": "Location",
         "price": "10$",
-        "tips": "Queues can be punishingly long; <br> visit at lunch or shortly before the last entry, or buy your tickets in advance online.",
+        "tips": "Queues can be punishingly long; visit at lunch or shortly before the last entry, or buy your tickets in advance online.",
+        "transport":"transport",
+        "filter":[1,4],
+        "popularity":"4"
+    },
+    {
+        "city":"Barcelona",
+        "name":"Museu Nacional d'Art de Catalunya",
+        "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
+        "type":[4,5],
+        "description": "Church",
+        "location": "Location",
+        "price": "10$",
+        "tips": "The visit allows you to enjoy a 360-degree view of the city and see the main buildings and monuments that make up the skyline of Barcelona.",
         "transport":"transport",
         "filter":[1],
-        "popularity":"1"
+        "popularity":"3"
+    },
+    {
+        "city":"Barcelona",
+        "name":"Park Güell",
+        "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
+        "type":[3],
+        "description": "Church",
+        "location": "Location",
+        "price": "10$",
+        "tips": "Park",
+        "transport":"transport",
+        "filter":[1],
+        "popularity":"2"
     }
+
+
+    
     
     
 ]
