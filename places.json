@@ -55,7 +55,7 @@
         "price": "10$",
         "tips": "Queues can be punishingly long; visit at lunch or shortly before the last entry, or buy your tickets in advance online.",
         "transport":"transport",
-        "filter":[1,4],
+        "filter":[1,2],
         "popularity":"4"
     },
     {
