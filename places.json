@@ -44,7 +44,8 @@
         "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
         "type":[4],
         "filter":[6],
-        "price":"One way ticket: 10$"
+        "price":"One way ticket: 10$",
+        "popularity":"1"
     },
     {
         "city":"Barcelona",
@@ -127,7 +128,8 @@
         "name":"Boat",
         "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
         "type":[4],
-        "price":"One way ticket: 10$"
+        "price":"One way ticket: 10$",
+        "popularity":"1"
     },
     {
         "city":"Tokyo",
@@ -174,7 +176,8 @@
         "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
         "type":[4],
         "filter":[6],
-        "price":"One way ticket: 10$"
+        "price":"One way ticket: 10$",
+        "popularity":"1"
     },
     {
         "city":"Kyiv",
@@ -221,7 +224,8 @@
         "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
         "type":[4],
         "filter":[6],
-        "price":"One way ticket: 10$"
+        "price":"One way ticket: 10$",
+        "popularity":"1"
     },
     {
         "city":"Sydney",
@@ -315,7 +319,8 @@
         "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
         "type":[4],
         "filter":[6],
-        "price":"One way ticket: 10$"
+        "price":"One way ticket: 10$",
+        "popularity":"1"
     },
     {
         "city":"Rio de Janeiro",
@@ -362,7 +367,8 @@
         "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
         "type":[4],
         "filter":[6],
-        "price":"One way ticket: 10$"
+        "price":"One way ticket: 10$",
+        "popularity":"1"
     }
     
 ]
