@@ -128,6 +128,7 @@
         "name":"Boat",
         "image":"https://kristinakuzenko.github.io/images/barcelona.jpg",
         "type":[4],
+        "filter":[6],
         "price":"One way ticket: 10$",
         "popularity":"1"
     },
