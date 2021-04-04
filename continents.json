@@ -1,4 +1,5 @@
-[
+{
+    "continents":[
     {
         "name":"Africa",
         "image":"https://kristinakuzenko.github.io/images/africa2.jpg_large",
@@ -31,3 +32,4 @@
         "contour":"https://kristinakuzenko.github.io/images/southamerica.png"
     }
 ]
+}

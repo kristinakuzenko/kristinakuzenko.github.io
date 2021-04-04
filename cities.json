@@ -1,4 +1,5 @@
-[
+{
+    "cities":[
     {
         "city":"Kyiv",
         "country":"Ukraine",
@@ -56,3 +57,4 @@
         "description": "What if I don't want to lay on the beach anymore..."
     }
 ]
+}
