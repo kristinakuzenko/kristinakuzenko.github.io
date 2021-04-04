@@ -1,5 +1,4 @@
-{
-    "places":[
+[
     {
         "city":"Barcelona",
         "name":"La Sagrada Familia",
@@ -374,4 +373,3 @@
     }
     
 ]
-}
