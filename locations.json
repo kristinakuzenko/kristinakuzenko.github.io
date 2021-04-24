@@ -8,6 +8,7 @@
         },
         "geometry": {
           "coordinates": [41.4036, 2.1744],
+          "center": [41.4036, 2.1744],
           "type": "Point"
         }
       }
